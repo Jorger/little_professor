@@ -2,9 +2,9 @@ const PRECACHE = 'little-professor-precache-v1';
 const RUNTIME = 'runtime';
 
 const PRECACHE_URLS = [
-  '/',
-  '/css/styles.css',
-  '/bundle.js'
+  '/little_professor/',
+  '/little_professor/css/styles.css',
+  '/little_professor/bundle.js'
 ];
 
 self.addEventListener('install', event => {
