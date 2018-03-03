@@ -22,7 +22,7 @@
     ],
     "background_color": "#236699",
     "theme_color": "#236699",
-    "start_url": "/",
+    "start_url": "/little_professor/",
     "display": "fullscreen",
     "orientation": "portrait"
 }
