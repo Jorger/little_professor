@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.bbqlmq",
+      "sha256_cert_fingerprints": ["38:A1:45:9E:11:73:E2:FF:02:79:1B:EB:8E:F1:CF:E9:61:79:A5:BB:A7:30:EE:37:17:70:43:EB:53:C5:17:94"]
+    }
+  }
+]
